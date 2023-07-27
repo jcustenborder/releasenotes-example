@@ -1,0 +1,9 @@
+{
+  "fromRepo": ".",
+  "fromCommit": "0000000000000000000000000000000000000000",
+  "toRef": "refs/heads/main",
+
+  "gitHubEnabled": true,
+  "gitHubApi": "https://api.github.com/repos/jcustenborder/releasenotes-example",
+  "gitHubIssuePattern": "#([0-9]+)"
+}
